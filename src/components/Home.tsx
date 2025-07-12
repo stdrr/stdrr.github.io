@@ -27,7 +27,7 @@ export default function Home() {
             </div>
             </div>
           <img
-            src="/src/assets/portrait_of_stdrr.jpg"
+            src="/portrait_of_stdrr.jpg"
             alt="Stefano D'Arrigo"
             className="w-24 h-24 rounded-full object-cover ml-6 border-4 border-primary"
             style={{ width: "300px", height: "300px" }}
